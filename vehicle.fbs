@@ -1,0 +1,9 @@
+namespace devx;
+
+table Vehicle {
+  id:string;
+  lat:float;
+  long:float;
+}
+
+root_type Vehicle;
